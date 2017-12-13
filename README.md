@@ -47,12 +47,22 @@ To send these changes from local repo to remote repo use command :
 manimala
 
 
+	Hey this is sindhu!!
+
+
 
 	Hey this is sindhu!!
 
 
+
+
+
 Mythili
 
+
+
+
+Mohan krishna
 
 
 Name: Sita Rama Raju
@@ -60,8 +70,7 @@ Name: Sita Rama Raju
 Teja Sudha 
 
 
-
-
+Pujitha Mallampati
 
 Srikanth
 
