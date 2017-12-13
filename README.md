@@ -43,3 +43,10 @@ To send staged files to the local repository use command :
 To send these changes from local repo to remote repo use command : 
 
 	`git push`
+
+
+
+	Teja Sudha 
+
+
+
