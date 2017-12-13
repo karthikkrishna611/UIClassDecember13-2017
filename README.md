@@ -44,9 +44,10 @@ To send these changes from local repo to remote repo use command :
 
 	`git push`
 
-<<<<<<< HEAD
-	Name : RaviTeja R
-=======
+Name : RaviTeja R
+
 
 Mythili
->>>>>>> 8aeb7893bf7882f54aa1be5bf592287bec6b87f7
+
+Name: Sita Rama Raju
+
