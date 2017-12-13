@@ -44,19 +44,33 @@ To send these changes from local repo to remote repo use command :
 
 	`git push`
 
+<<<<<<< HEAD
 
 Name : RaviTeja R
 
 
 manimala
-
-
-Hey this is sindhu!!
-
+=======
 
 Mythili
 
 
+Name: Sita Rama Raju
+
+
+Teja Sudha
+
+>>>>>>> 4f6b672dda80d7215118fbc7a996351e879d76da
+
+Srikanth
+
+Hey this is sindhu!!
+
+Teja Sudha
+
+
+
+<<<<<<< HEAD
 Mohan krishna
 
 
@@ -64,16 +78,33 @@ Name: Sita Rama Raju
 
 
 Teja Sudha 
+=======
+mohan krishna again
+
+
+Soumya Bairam
+
+
+>>>>>>> 4f6b672dda80d7215118fbc7a996351e879d76da
 
 
 Pujitha Mallampati
 
+<<<<<<< HEAD
 
 Srikanth
 
 
 mohan krishna again
+=======
+
+Mohan krishna
 
 
+manimala
+>>>>>>> 4f6b672dda80d7215118fbc7a996351e879d76da
+
+
+Mythili trying again
 
 
