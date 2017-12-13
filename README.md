@@ -44,11 +44,6 @@ To send these changes from local repo to remote repo use command :
 
 	`git push`
 
-manimala
-
-
-	Hey this is sindhu!!
-
 
 Mythili
 
@@ -79,4 +74,9 @@ Pujitha Mallampati
 
 Mohan krishna
 
+
+manimala
+
+
 Mythili trying again
+
