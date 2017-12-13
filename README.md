@@ -28,6 +28,13 @@ To stage (choosing which of the modifed files has to be sent to local repo and t
 		`git add filename1 filename2`
 
 
+To configure user name and user email to the repository use command : 
+
+	`git config user.name karthikkrishna611`
+
+	`git config user.email karthikkrishna611@gmail.com`
+
+
 To send staged files to the local repository use command : 
 
 	`git commit -m "usestory # : filename:add,modify: feature names"`
