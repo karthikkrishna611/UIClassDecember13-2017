@@ -45,11 +45,15 @@ To send these changes from local repo to remote repo use command :
 	`git push`
 
 
+<<<<<<< HEAD
+	Hey this is sindhu!!
+=======
 
 
 
 
 Mythili
+
 
 
 Name: Sita Rama Raju
@@ -59,7 +63,8 @@ Teja Sudha
 
 Pujitha Mallampati
 
+Srikanth
 
 
 
-
+>>>>>>> 05855eb8fadd5b70ec3756bade4bffbdbfb5cf5c
