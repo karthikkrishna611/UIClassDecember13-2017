@@ -44,11 +44,6 @@ To send these changes from local repo to remote repo use command :
 
 	`git push`
 
-manimala
-
-
-	Hey this is sindhu!!
-
 
 Mythili
 
@@ -56,19 +51,38 @@ Mythili
 Name: Sita Rama Raju
 
 
-Teja Sudha 
+Teja Sudha
 
 
 Srikanth
 
 
+
 mohan krishna again again again 
+
+Teja Sudha
+
+
+
+mohan krishna again
+
 
 
 Soumya Bairam
 
 
+
+
 Pujitha Mallampati
 
+
+
+Mohan krishna
+
+
+manimala
+
+
+Mythili trying again
 
 
